@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Mini E-Commerce</string>
+    <string name="start_shopping">Start Shopping</string>
+    <string name="hello_user">Hello, User</string>
+    <string name="select_products">Select Products</string>
+    <string name="product_mobile_with_price">Mobile Phone – Rs.15000</string>
+    <string name="product_headphones_with_price">Headphones – Rs.2000</string>
+    <string name="product_smart_watch_with_price">Smart Watch – Rs.3000</string>
+    <string name="product_mobile">Mobile Phone</string>
+    <string name="product_headphones">Headphones</string>
+    <string name="product_smart_watch">Smart Watch</string>
+    <string name="view_bill">View Bill</string>
+    <string name="toast_select_product">Please select at least one product.</string>
+    <string name="order_summary">Order Summary</string>
+    <string name="selected_products_label">Selected Products</string>
+    <string name="total_amount_label">Total Amount</string>
+    <string name="total_format">Rs.%1$d</string>
+    <string name="confirm_order">Confirm Order</string>
+    <string name="back_to_products">Back to Products</string>
+    <string name="order_placed_successfully">Order Placed Successfully</string>
+    <string name="thank_you_message">Thank you for shopping with us!</string>
+    <string name="go_to_home">Go to Home</string>
+    <string name="profile_icon_desc">Profile placeholder icon</string>
+    <string name="no_products">No products selected</string>
+</resources>
